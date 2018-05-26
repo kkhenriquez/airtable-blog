@@ -34,8 +34,14 @@ Currently this starter includes the following:
 
 ## How to use it?
 
-If you have 'gatsby' installed globally, just start a new project with:
+After you clone and cd to the project you can run
 
 ```
-gatsby new my-project https://github.com/davad/gatsby-hampton-theme
+gatsby develop
+```
+
+or
+
+```
+gatsby build
 ```
