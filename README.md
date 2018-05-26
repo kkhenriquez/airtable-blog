@@ -1,4 +1,8 @@
-# gatsby-hampton-theme
+# airtable-blog
+
+This is an example from the tutorial on Airtable's blog [Build your own custom blog CMS with Airtable and GatsbyJS](https://blog.airtable.com/build-your-own-custom-blog-cms-with-airtable-and-gatsbyjs/).
+
+It uses [GatsbyJS](https://github.com/gatsbyjs/gatsby) and [Airtable](https://airtable.com/) as a backend.
 
 This is a starter for [GatsbyJS](https://github.com/gatsbyjs/gatsby)
 based on
