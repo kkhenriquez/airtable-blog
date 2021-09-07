@@ -73,7 +73,7 @@
     "gatsby-source-airtable": "0.0.6",
     "jest": "^21.2.1",
     "prettier": "1.7.4",
-    "remark-html": "^7.0.0",
+    "remark-html": "^13.0.2",
     "unified": "^7.0.0"
   }
 }
