@@ -8,7 +8,7 @@
     "emotion": "^8.0.8",
     "emotion-server": "^8.0.8",
     "feather-icons": "^3.3.0",
-    "gatsby": "^1.9.76",
+    "gatsby": "^5.3.3",
     "gatsby-image": "^1.0.13",
     "gatsby-link": "^1.6.21",
     "gatsby-plugin-emotion": "^1.1.8",
